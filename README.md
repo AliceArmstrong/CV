@@ -1,48 +1,56 @@
-## Your Name
+## Alice Armstrong
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Previously, I was the manager of a successful electronics retail store. I am now using the drive and determination I gained from that to learn new skills and develop existing ones at Makers Academy. I'm hoping to apply these skills in a company that loves technology as much as I do.
 
 ## Skills
 
-#### This Skill
+#### Creative Technology
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Whether art, music or technology, I have always loved creating. I was first introduced to coding at a young age via QBasic, and enjoyed spending much of my youth creating simple text adventure games and scripts. Moving to London and discovering Makers Academy has since allowed me to turn this hobby into a marketable skill and has given me the tools I need to keep developing these skills independently once my time studying has ended. Below are some example skills that I've developed:
 
-- Experience
-- Achievements
-- Evidence
+- Ruby
+- Rspec
+- Pair-Programming
+- Test-Driven Development
 
-#### Another Skill
+#### People Management
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Several years management experience has seen me in charge of teams of up to 10 in a day with full rotas of around 20 people in my largest store. People are the backbone of any business, and as such, effective people management has been a crucial skill for me to develop. The following are examples of skills I've honed profusely:
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Training and Development
+- Time Management and Delegation
+- Disciplinary Procedure
+- Wage control
+
+#### Independent Development
+Being the manager of my store, there would be no presence of any more senior management during my day-to-day work. This means that the performance of my store relied purely on my own independent motivation, judgement and personal development. Similarly, the work at Makers Academy hinges on the ability to learn independently and develop skills in your own time. 
+
+#### Drive for Success
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Jan 2017 - May 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- 12 weeks of intensive learning and development
 
-#### Your University / College (start_date to end_date)
+#### City of Stoke-on-Trent College (2006 - 2009)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Art & Design
+- Music
+- Music Technology
+- Psychology
+- Philosophy
+- Performance Studies
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**CeX (Complete Entertainment Exchange)** (2011 - 2016)    
+*Sales Assistant > Supervisor > Store Manager*  
+**Bunker 13** (2010 - 2013)   
+*Bartender*  
+**Signal Radio (UTV Media)** (2009)   
+*Sponsorships and Promotions Admin*  
+**Gaming Grounds (Independent store)** (2009)   
+*Freelance Graphic Designer*  
