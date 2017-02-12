@@ -1,6 +1,6 @@
 ## Alice Armstrong
 
-Previously, I was the manager of a successful electronics retail store. I am now using the drive and determination I gained from that to learn new skills and develop existing ones at Makers Academy. I'm hoping to apply these skills in a company that loves technology as much as I do.
+Previously, I was the manager of a successful electronics retail store. I am now using the drive and determination I gained from that to learn new skills and develop existing ones at Makers Academy. I'm hoping to apply these skills as a developer in a company that loves technology as much as I do.
 
 ## Skills
 
@@ -23,7 +23,7 @@ Several years management experience has seen me in charge of teams of up to 10 i
 - Wage control
 
 #### Independent Development
-Being the manager of my store, there would be no presence of any more senior management during my day-to-day work. This means that the performance of my store relied purely on my own independent motivation, judgement and personal development. Similarly, the work at Makers Academy hinges on the ability to learn independently and develop skills in your own time. 
+Being the manager of my store, there would be no presence of any more senior management during my day-to-day work. This means that the performance of my store relied purely on my own independent motivation, judgement and personal development. Similarly, the work at Makers Academy hinges on the ability to learn independently and develop skills in your own time.
 
 #### Drive for Success
 
