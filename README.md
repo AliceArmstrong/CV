@@ -12,6 +12,12 @@ Whether art, music or technology, I have always loved creating. I was first intr
 - Rspec
 - Pair-Programming
 - Test-Driven Development
+- Capybara
+- Sinatra
+- JavaScript
+- Jasmine
+- SQL Databasing
+- HTML
 
 #### People Management
 
