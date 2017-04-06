@@ -42,16 +42,16 @@ In 2015, I took the risk of leaving my store in Staffordshire to take over a fai
 
 #### Makers Academy (Jan 2017 - May 2017)
 
-- 16 weeks of intensive learning and development
+* 16 weeks of intensive learning and development
 
 #### City of Stoke-on-Trent College (2006 - 2009)
 
-- Art & Design
-- Music
-- Music Technology
-- Psychology
-- Philosophy
-- Performance Studies
+* Art & Design
+* Music
+* Music Technology
+* Psychology
+* Philosophy
+* Performance Studies
 
 ## Experience
 
