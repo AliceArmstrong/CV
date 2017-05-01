@@ -1,6 +1,6 @@
 ![Alice Armstrong](typobanner.png)
 
-Previously, I was the manager of a successful electronics retail store. I have since used the drive and determination I gained from that to learn new skills and develop existing ones at Makers Academy, an intensive software developer training course. I'm hoping to apply these skills as a developer in a company that loves technology as much as I do. Although I'm mainly proficient in Ruby and JavaScript, one major advantage of the training I have received at Makers Academy is the ability to learn new technologies incredibly quickly. I'm also proficient in PhotoShop, with an interest in UI/UX design.
+Previously, I was the manager of a successful electronics retail store. I have since used the drive and determination I gained from that to learn new skills and develop existing ones at Makers Academy, an intensive software developer training course. I'm hoping to apply these skills as a developer in a company that loves technology as much as I do. Although I'm mainly proficient in Ruby and JavaScript, one major advantage of the training I have received at Makers Academy is the ability to learn new technologies incredibly quickly. I'm also proficient in Photoshop, with an interest in UI/UX design.
 
 #### Example Projects
 * [Quizbot](https://github.com/Noora-q/quizbot-alexa) Educational Alexa Skills app for Amazon Echo (_JavaScript_)
