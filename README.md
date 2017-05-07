@@ -3,7 +3,7 @@
 Previously, I was the manager of a successful electronics retail store. I have since used the drive and determination I gained from that to learn new skills and develop existing ones at Makers Academy, an intensive software developer training course. I'm hoping to apply these skills as a developer in a company that loves technology as much as I do. I'm particularly excited about a going into a role with UX/design elements, and/or a role working in Ruby, but I am open to working with any technologies. One major advantage of the training I have received at Makers Academy is the ability to learn new technologies incredibly quickly.
 
 #### Example Projects
-* [Quizbot](https://github.com/Noora-q/quizbot-alexa) Educational app for Amazon Echo (_JavaScript_)
+* [Quizbot](https://github.com/Noora-q/quizbot-alexa) Educational Alexa Skills app for Amazon Echo (_JavaScript_)
 * [Tall Tales](https://github.com/nryn/TallTalesTheThird) Collaborative story game (_JavaScript_)
 * [Noto](https://github.com/AliceArmstrong/notebook_js) Notebook web app made with homemade testing suite (_JavaScript_)
 * [Yelp Clone](https://github.com/ayanit1/yelp_clone) Website for reviewing restaurants, based on Yelp (_Ruby on Rails_)
