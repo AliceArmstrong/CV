@@ -1,4 +1,4 @@
-## Alice Armstrong
+![Alice Armstrong](typobanner.png)
 
 Previously, I was the manager of a successful electronics retail store. I have since used the drive and determination I gained from that to learn new skills and develop existing ones at Makers Academy, an intensive software developer training course. I'm hoping to apply these skills as a developer in a company that loves technology as much as I do. Although I'm mainly proficient in Ruby and JavaScript, one major advantage of the training I have received at Makers Academy is the ability to learn new technologies incredibly quickly. I'm also proficient in PhotoShop, with an interest in UI/UX design.
 
@@ -44,6 +44,13 @@ In 2015, I took the risk of leaving my store in Staffordshire to take over a fai
 #### Makers Academy (Jan 2017 - May 2017)
 
 * 16 weeks of intensive learning and development
+
+#### Independent Study
+
+* Android Development workshop
+* Cloud Foundry workshop
+* Alexa Skills workshop
+* Elm workshop
 
 #### City of Stoke-on-Trent College (2006 - 2009)
 
