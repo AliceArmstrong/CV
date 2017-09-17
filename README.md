@@ -65,7 +65,7 @@ In 2015, I took the risk of leaving my store in Staffordshire to take over a fai
 ## Experience
 
 **Mettrr Technologies Ltd** (June 2017 - Present)
-*Software Developer*
+*Software Developer*  
 **CeX Ltd (Complete Entertainment Exchange)** (2011 - 2016)    
 *Sales Assistant > Supervisor > Store Manager*  
 **Bunker 13** (2010 - 2013)   
