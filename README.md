@@ -1,25 +1,53 @@
 ![Alice Armstrong](typobanner.png)
+https://www.linkedin.com/in/alice-armstrong-a85021126/
 
-Until the end of 2016, I was the manager of a successful electronics retail store. Seeking a change in life, I started teaching myself how to code and joined Makers Academy, an intensive software developer training course. This led to me landing my first developer job at Mettrr, a rapidly expanding web design start-up. When not working, I enjoy attending workshops and conferences on interesting new technologies. I also support diversity in tech in my spare time, and have recently been interviewed by the BBC for a piece on encouraging females into the industry.
+## Summary
 
-#### Example Projects
-* [Quizbot](https://github.com/Noora-q/quizbot-alexa) Educational Alexa Skills app for Amazon Echo (_JavaScript_)
-* [Tall Tales](https://github.com/nryn/TallTalesTheThird) Collaborative story game using WebSockets (_JavaScript_)
-* [Noto](https://github.com/AliceArmstrong/notebook_js) Notebook web app made with homemade testing suite (_JavaScript_)
-* [Yelp Clone](https://github.com/ayanit1/yelp_clone) Website for reviewing restaurants, based on Yelp (_Ruby on Rails_)
-* [Air BnB Clone](https://github.com/allthatilk/MakersAirBnB_TeamSix) Website for renting rooms, based on Air BnB (_Ruby_)
+Until the end of 2016, I was the manager of a successful electronics retail store. Seeking a change in life, I started teaching myself how to code and joined Makers Academy, an intensive software developer training course. This led to me working at Mettrr, where over the past two years I've helped the company grow from a tech team of around 14 to a team of around 25 developers. My primary experience at Mettrr has been building new features for software in JavaScript and PHP. I use my spare time to try to enrich the tech industry by talking about tech in schools and organising various talks nights, as well as attending tech conferences and workshops.
 
 ## Skills
 
-#### Creative Technology
+#### Current everyday responsibilities:
+* Integral part of the team that created Mettrr's CRM software
+* Implementing Google Ads as a Service as a company product
+* Designing and implementing several large features
+* Working with colleagues to design large-scale architectural changes
+* Fixing bugs
+* Regular deployments of production code
+* Pairing with colleagues
+* Constant improvement of workflow through active retro participation
+* Test-driven development of back end code
+* Rigorous manual testing of front end code
+* Mentoring colleagues
+* Presenting projects to stakeholders
+* Functional and object-oriented programming
+* Having a good knowledge of multiple projects
+* Tasked with designing a Mettrr 'progression framework' to guide and measure internal career progression
 
-Whether art, music or technology, I have always loved creating. I was first introduced to coding at a young age via QBasic, and enjoyed spending much of my youth creating simple text adventure games and scripts. Moving to London and discovering Makers Academy has since allowed me to turn this hobby into a marketable skill and has given me the tools I need to keep developing these skills in a workplace environment. Below are some example skills that I've developed:
+#### Strongest skills:
+* Front end development (JavaScript [ES6], Vue.js)
+* Back end development (PHP, Laravel)
+* TDD (PHPUnit, Jasmine)
+* CSS
+* HTML
+* SQL
+* Version control
+* UX/UI
+* Agile development
 
-* Pair-Programming
-* Test-Driven Development
-* Agile Development
-* Object-Oriented Design
-* XP Values (Communication, Simplicity, Feedback, Courage)
+#### Minor skills:
+* Python
+* Machine Learning
+* Ruby
+* AWS
+* Alexa Skills Development
+
+#### Additional achievements:
+* Organising talks nights on a range of topics, including mental healh and diversity in tech
+* Leading workshops and careers talks in schools to introduce children to coding
+* Interviewed by the BBC for a piece on encouraging females into the tech industry
+* Interviewed by The Sun about how to get into the tech industry
+* Makers Academy training
 
 #### People Management
 
@@ -31,9 +59,6 @@ Several years management experience has seen me in charge of teams of up to 10 i
 * Wage and Stock Control
 * Commercial Awareness
 
-#### Adaptability
-
-Though my current role is primarily front end JavaScript, I have created projects in multiple languages and frameworks. One major advantage of the training I have received at Makers Academy is the ability to learn new technologies incredibly quickly. This is demonstrated through my final project, which was an Alexa Skills app for the Amazon Echo, a medium quite different to the Makers Academy syllabus. I also have experience with Photoshop and Sketch, with an interest in UX/UI.
 
 #### Drive for Success
 
@@ -45,22 +70,7 @@ In 2015, I took the risk of leaving my store in Staffordshire to take over a fai
 
 * 16 weeks of full stack learning and development
 
-#### Independent Study
-
-* Android Development workshop
-* Cloud Foundry workshop
-* Alexa Skills workshop
-* Elm workshop
-* AI & Machine Learning workshop
-
-#### City of Stoke-on-Trent College (2006 - 2009)
-
-* Art & Design
-* Music
-* Music Technology
-* Psychology
-* Philosophy
-* Performance Studies
+#### City of Stoke-on-Trent College (2006 - 2009) 
 
 ## Experience
 
