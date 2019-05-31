@@ -1,4 +1,5 @@
 ![Alice Armstrong](typobanner.png)
+
 https://www.linkedin.com/in/alice-armstrong-a85021126/
 
 ## Summary
