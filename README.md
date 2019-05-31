@@ -44,7 +44,7 @@ Until the end of 2016, I was the manager of a successful electronics retail stor
 * Alexa Skills Development
 
 #### Additional achievements:
-* Organising talks nights on a range of topics, including mental healh and diversity in tech
+* Organising talks nights on a range of topics, including mental health and diversity in tech
 * Leading workshops and careers talks in schools to introduce children to coding
 * Interviewed by the BBC for a piece on encouraging females into the tech industry
 * Interviewed by The Sun about how to get into the tech industry
