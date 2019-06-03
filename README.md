@@ -4,7 +4,13 @@ https://www.linkedin.com/in/alice-armstrong-a85021126/
 
 ## Summary
 
-Until the end of 2016, I was the manager of a successful electronics retail store. Seeking a change in life, I started teaching myself how to code and joined Makers Academy, an intensive software developer training course. This led to me working at Mettrr, where over the past two years I've helped the company grow from a tech team of around 14 to a team of around 25 developers. My primary experience at Mettrr has been building new features for software in JavaScript and PHP. I use my spare time to try to enrich the tech industry by talking about tech in schools and organising various talks nights, as well as attending tech conferences and workshops.
+Until the end of 2016, I was the manager of a successful electronics retail store. Seeking a change in life, I started teaching myself how to code and joined Makers Academy, an intensive software developer training course. This led to me working at Mettrr, where I’ve been for the last two years as a full stack developer. I use my spare time to try to enrich the tech industry by talking about tech in schools and organising various talks nights, as well as attending tech conferences and workshops.
+
+## Mettrr
+
+When I started at Mettrr two years ago, I came into the company as a front end developer. I spent a few months working on the company website and our product (websites made with our own static site generator platform), in which time I learned about things like SEO, accessibility and page rendering, as well as the JavaScript framework Vue.js and Hugo, the Go framework. I bested many challenges, including rewriting a portion of the company website on my own (a task we later realised was very heavy for a lone junior, but we were a small company at the time without the structure in place to accurately measure workload). After this, I moved to a new team that was creating a new CRM (customer relation management software) for the company to use internally. It was here that I experienced setting up a project from scratch, designing the architecture and setting the best practices. As the company grew and developed, I grew and developed with it as I continued to work on this large-scale project, adding new features and deeply improving my JavaScript skills. My previously-learned skills with accessibility and page rendering, as well as my personal interest in UX/UI, quickly made me a very valuable front end member of the team and crucial to discussions when planning out future features with the Product Owner and stakeholders.
+
+In a quest for new challenges, I developed my back end skills to become a full-stack developer. I quickly picked up PHP with Laravel, and worked with my back end team-mates to deepen my knowledge of databases, object-oriented programming and back end architecture and design patterns. I did a lot of pairing in this time, and was lucky enough to be involved in a big restructuring of our database and several large-scale changes to our back end logic. Since then, I have designed and implemented several large back end features, including our entire dunning process. Day-to-day, I flow between back end and front end to fix bugs and add new features, and enjoy the ability to use my knowledge of both sides to improve my work. Outside of my job role, I also bring value to the company by helping to design the progression framework that will be used to determine the career progression of employees. 
 
 ## Skills
 
@@ -50,8 +56,7 @@ Until the end of 2016, I was the manager of a successful electronics retail stor
 * Interviewed by The Sun about how to get into the tech industry
 * Makers Academy training
 
-#### People Management
-
+#### People Management:
 Several years management experience has seen me in charge of teams of up to 10 in a day with full rotas of around 20 people in my largest store. People are the backbone of any business, and as such, effective people management has been a crucial skill for me to develop. The following are examples of skills I've particularly honed:
 
 * Training and Development
@@ -60,10 +65,6 @@ Several years management experience has seen me in charge of teams of up to 10 i
 * Wage and Stock Control
 * Commercial Awareness
 
-
-#### Drive for Success
-
-In 2015, I took the risk of leaving my store in Staffordshire to take over a failing store in Fulham with many known problems. In three months, I had completely re-trained the staff and subsequently raised the average sales of the store by £2k a week, delivering the best quarter the store had seen for around 3 years. I owe this to my drive and determination to succeed in difficult situations. On a similar note, it's estimated that over 1000 hours of coding are completed over the 16 weeks of Makers Academy. It's an intensive experience that requires one to give up every evening and weekend for four months, and thus requires a strong drive for success to undertake.
 
 ## Education
 
